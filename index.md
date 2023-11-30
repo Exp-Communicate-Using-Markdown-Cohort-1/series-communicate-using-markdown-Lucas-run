@@ -5,4 +5,6 @@
 ##### Header 5
 ###### Header 6 
 
-letra normal
+# This is an Image
+
+![Icon of Markdown](https://mediamanager.com.br/wp-content/uploads/2023/04/O-que-e-Markdown.png)
